@@ -2,7 +2,7 @@
 Norman USB Imager:
 Dit script is bedoeld om snel grote hoeveelheden USB drives te imagen. (bijv. Norman Rescue Disk.
 '''
-__Author__ = "Jeroen Hentschke"
+__Author__ = "Pillbox82"
 
 #Importeer Regex
 import re
