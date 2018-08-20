@@ -1,6 +1,6 @@
 '''
-Norman USB Imager:
-Dit script is bedoeld om snel grote hoeveelheden USB drives te imagen. (bijv. Norman Rescue Disk.
+USB Imager:
+Dit script is bedoeld om snel grote hoeveelheden USB drives te imagen. (bijv.Rescue Disk.)
 '''
 __Author__ = "Pillbox82"
 
